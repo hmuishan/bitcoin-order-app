@@ -1,4 +1,4 @@
-name: "sast-scan"
+ame: "sast-scan"
 
 on:
   push:
